@@ -1,5 +1,5 @@
 -- Snapshot for stage ZOMATO_DWH.RAW.ZOMATO_EXT_STAGE (DESCRIBE STAGE)
--- Generated at: 2025-11-15 11:28:37 UTC
+-- Generated at: 2025-11-15 11:37:23 UTC
 -- Source SQL: DESC STAGE ZOMATO_DWH.RAW.ZOMATO_EXT_STAGE
 
 -- parent_property | property | property_type | property_value | property_default
