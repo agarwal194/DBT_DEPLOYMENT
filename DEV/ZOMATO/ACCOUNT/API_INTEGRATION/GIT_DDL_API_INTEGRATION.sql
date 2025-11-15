@@ -1,5 +1,5 @@
 -- Snapshot for API INTEGRATION GIT_DDL_API_INTEGRATION (DESCRIBE API INTEGRATION)
--- Generated at: 2025-11-15 12:52:46 UTC
+-- Generated at: 2025-11-15 13:37:33 UTC
 -- Source SQL: DESC API INTEGRATION GIT_DDL_API_INTEGRATION
 
 -- property | property_type | property_value | property_default

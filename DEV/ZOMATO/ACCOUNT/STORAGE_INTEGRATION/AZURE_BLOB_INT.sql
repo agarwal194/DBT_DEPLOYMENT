@@ -1,5 +1,5 @@
 -- Snapshot for STORAGE INTEGRATION AZURE_BLOB_INT (DESCRIBE STORAGE INTEGRATION)
--- Generated at: 2025-11-15 12:52:46 UTC
+-- Generated at: 2025-11-15 13:37:32 UTC
 -- Source SQL: DESC STORAGE INTEGRATION AZURE_BLOB_INT
 
 -- property | property_type | property_value | property_default
